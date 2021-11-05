@@ -26,5 +26,5 @@ Name = GetName()
 Age = GetAge()
 # ask for the address and save as variable
 Address = GetAddress()
-# display the name, age and variable
+# display the name, age and address variable
 Output = DisplayOutput(Name, Age, Address)
